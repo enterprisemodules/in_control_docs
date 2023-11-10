@@ -1,0 +1,46 @@
+- title: Reference 
+  url: Guides
+  links:
+    - title: What is InControl
+      url: "docs/description"
+    - title: "General overview"
+      url: "docs/general_overview"
+      # children:
+      #   - title: Features
+      #     url: "docs/getting-started#getting-started"
+      #   - title: Development
+      #     url: "docs/getting-started#development"
+      #   - title: Customization
+      #     url: "docs/getting-started#customization"
+    # - title: "About"
+    #   url: "about"
+    # - title: "News"
+    #   url: "news"
+- title: "Reference"
+  links:
+    - title: Registering & Logging in
+      url: "docs/registering_and_logging_in.html"
+    - title: The Dashboard
+      url: "docs/dashboard.html"
+    - title: Nodes page
+      url: "docs/nodes.html"
+    - title: Compliance Reports
+      url: "docs/compliance_reports.html"
+    - title: Vulnerability Reports
+      url: "docs/vulnerability_reports.html"
+    - title: Compliance Controls
+      url: "docs/controls.html"
+    - title: Vulnerability Occurrences
+      url: "docs/vulnerability_occurrences.html"
+    - title: Vulnerability Details
+      url: "docs/vulnerability_details.html"
+    - title: Audit Trail
+      url: "docs/audit_trail.html"
+    # - title: Environments page
+    #   url: "docs/environments.html"
+    # - title: Environment details page
+    #   url: "docs/environment_details.html"
+    # - title: Node groups page
+    #   url: "docs/node_groups.html"
+    # - title: Node groups details page
+    #   url: "docs/node_group_details.html"
